@@ -5,6 +5,8 @@
     * [lecture3_4](#lecture3_4)
     * [lecture5](#lecture5)
     * [lecture6](#lecture6)
+* [HOMEWORK](#HOMEWORK)  
+    * [homework2](#homework2)  
 
 # lecture1
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -30,6 +32,8 @@
 [官方笔记](/material/lecture/lecture5/note.pdf)  
 # lecture6
 第六节课主要讲了哈希表这个索引结构
-[课堂笔记](/note/lecture/lecture6.md)
-[课堂资料](/material/lecture/lecture6/06-hashtables.pdf)
-[官方笔记](/material/lecture/lecture6/note.pdf)
+[课堂笔记](/note/lecture/lecture6.md)  
+[课堂资料](/material/lecture/lecture6/06-hashtables.pdf)  
+[官方笔记](/material/lecture/lecture6/note.pdf)  
+# homework2  
+第二次作业是索引相关的题目，有布谷鸟散列和可扩展散列和b+树的相关题目，有时间再做  

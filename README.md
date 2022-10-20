@@ -4,6 +4,7 @@
     * [lecture2](#lecture2)
     * [lecture3_4](#lecture3_4)
     * [lecture5](#lecture5)
+    * [lecture6](#lecture6)
 
 # lecture1
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -23,7 +24,12 @@
 [官方笔记1](/material/lecture/lecture3/note.pdf)  
 [官方笔记2](/material/lecture/lecture4/note.pdf)  
 # lecture5
-第三节课主要讲了数据库如何对页面进行存储  
+第五节课主要讲了数据库如何对页面进行存储  
 [课堂笔记](/note/lecture/lecture5.md)  
-[课堂资料](/material/lecture/lecture5/05-bufferpool.pdf)
-[官方笔记](/material/lecture/lecture5/note.pdf)
+[课堂资料](/material/lecture/lecture5/05-bufferpool.pdf)  
+[官方笔记](/material/lecture/lecture5/note.pdf)  
+# lecture6
+第六节课主要讲了哈希表这个索引结构
+[课堂笔记](/note/lecture/lecture6.md)
+[课堂资料](/material/lecture/lecture6/06-hashtables.pdf)
+[官方笔记](/material/lecture/lecture6/note.pdf)

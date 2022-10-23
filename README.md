@@ -7,6 +7,7 @@
     * [lecture6](#lecture6)  
     * [lecture7](#lecture7)  
     * [lecture8](#lecture8)  
+    * [lecture9](#lecture9)  
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -45,3 +46,8 @@
 [课堂笔记](/note/lecture/lecture8.md)  
 [课堂资料](/material/lecture/lecture8/08-indexconcurrency.pdf)  
 [官方笔记](/material/lecture/lecture8/note.pdf)  
+# lecture9  
+第九节课主要讲了排序和聚合，是针对如何实现一次查询语句的课程。对于排序而言，外部排序是之前就学习过的东西，比较基础。对于聚合而言就比较抽象，是针对于具体查询而诞生出的东西，因为查询语句的时候经常会使用`group by`语句，这时候是需要聚合的，本节课提出的方式有b+树聚合和散列法两种方法，因为这几种方法更适合结合图像来看，因此笔记里面并没有记载，还是需要到pdf里面去看。    
+[课堂笔记](/note/lecture/lecture9.md)  
+[课堂资料](/material/lecture/lecture9/09-sorting.pdf)  
+[官方笔记](/material/lecture/lecture9/note.pdf)  

@@ -6,6 +6,7 @@
     * [lecture5](#lecture5)  
     * [lecture6](#lecture6)  
     * [lecture7](#lecture7)  
+    * [lecture8](#lecture8)  
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -39,3 +40,8 @@
 [课堂笔记](/note/lecture/lecture7.md)  
 [课堂资料](/material/lecture/letcure7/07-trees.pdf)  
 [官方笔记](/material/lecture/letcure7/note.pdf)  
+# lecture8  
+第八节课主要讲了索引的控制并行  
+[课堂笔记](/note/lecture/lecture8.md)  
+[课堂资料](/material/lecture/lecture8/08-indexconcurrency.pdf)  
+[官方笔记](/material/lecture/lecture8/note.pdf)  

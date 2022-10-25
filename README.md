@@ -8,6 +8,7 @@
     * [lecture7](#lecture7)  
     * [lecture8](#lecture8)  
     * [lecture9](#lecture9)  
+    * [lecture10](#lecture10)  
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -51,3 +52,8 @@
 [课堂笔记](/note/lecture/lecture9.md)  
 [课堂资料](/material/lecture/lecture9/09-sorting.pdf)  
 [官方笔记](/material/lecture/lecture9/note.pdf)  
+# lecture10
+第十节课主要讲了加入排序算法，一开始看网课的时候感觉很生涩，看了ppt感觉还好，所以主要还是ppt  
+[课堂笔记](/note/lecture/lecture10.md)  
+[课堂资料](/material/lecture/lecture10/10-joins.pdf)  
+[官方笔记](/material/lecture/lecture10/note.pdf)  

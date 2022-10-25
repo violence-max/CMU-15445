@@ -9,6 +9,7 @@
     * [lecture8](#lecture8)  
     * [lecture9](#lecture9)  
     * [lecture10](#lecture10)  
+    * [lecture11](#lecture11)  
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -57,3 +58,8 @@
 [课堂笔记](/note/lecture/lecture10.md)  
 [课堂资料](/material/lecture/lecture10/10-joins.pdf)  
 [官方笔记](/material/lecture/lecture10/note.pdf)  
+# lecture11
+第十一节课主要讲的是查询的具体执行，就是把各种查询过程中用到的运算符结合起来讲，我觉得这节课还是视频和ppt结合起来看比较好，老师看一张ppt能讲10分钟，很强  
+[课堂笔记](/note/lecture/lecture11.md)  
+[课堂资料](/material/lecture/lecture11/11-queryexecution1.pdf)  
+[官方笔记](/material/lecture/lecture11/note.pdf)  

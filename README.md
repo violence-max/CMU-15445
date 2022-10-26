@@ -10,6 +10,7 @@
     * [lecture9](#lecture9)  
     * [lecture10](#lecture10)  
     * [lecture11](#lecture11)  
+    * [lecture12](#lecture12)  
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -63,3 +64,8 @@
 [课堂笔记](/note/lecture/lecture11.md)  
 [课堂资料](/material/lecture/lecture11/11-queryexecution1.pdf)  
 [官方笔记](/material/lecture/lecture11/note.pdf)  
+# lecture12
+第十二节课主要讲得是查询中的并行执行，包括并行执行过程中的模型以及内部查询并行执行的方法等
+[课堂笔记](/note/lecture/lecture12.md)  
+[课堂资料](/material/lecture/lecture12/12-queryexecution2.pdf)    
+[官方笔记](/material/lecture/lecture12/note.pdf)  

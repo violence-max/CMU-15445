@@ -11,6 +11,7 @@
     * [lecture10](#lecture10)  
     * [lecture11](#lecture11)  
     * [lecture12](#lecture12)  
+    * [lecture13](#lecture13)   
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -69,3 +70,8 @@
 [课堂笔记](/note/lecture/lecture12.md)  
 [课堂资料](/material/lecture/lecture12/12-queryexecution2.pdf)    
 [官方笔记](/material/lecture/lecture12/note.pdf)  
+# lecture13
+第十三节课主要讲的是查询计划的优化，花销等等  
+[课堂笔记](/note/lecture/lecture13.md)  
+[课堂资料](/material/lecture/lecture13/13-optimization1.pdf)      
+[官方笔记](/material/lecture/lecture13/note.pdf)  

@@ -14,6 +14,7 @@
     * [lecture13](#lecture13)   
     * [lecture14](#lecture14)   
     * [lecture15](#lecture15)   
+    * [lecture16](#lecture16)   
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -87,3 +88,8 @@
 [课堂笔记](/note/lecture/lecture15.md)  
 [课堂资料](/material/lecture/lecture15/15-concurrencycontrol.pdf)      
 [官方笔记](/material/lecture/lecture15/note.pdf)  
+# lecture16
+第十五节课主要讲的是两个阶段的锁  
+[课堂笔记](/note/lecture/lecture16.md)  
+[课堂资料](/material/lecture/lecture16/16-twophaselocking.pdf)      
+[官方笔记](/material/lecture/lecture16/note.pdf)  

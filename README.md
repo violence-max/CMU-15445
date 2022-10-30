@@ -13,6 +13,7 @@
     * [lecture12](#lecture12)  
     * [lecture13](#lecture13)   
     * [lecture14](#lecture14)   
+    * [lecture15](#lecture15)   
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -81,3 +82,8 @@
 [课堂笔记](/note/lecture/lecture14.md)  
 [课堂资料](/material/lecture/lecture14/14-optimization2.pdf)      
 [官方笔记](/material/lecture/lecture14/note.pdf)  
+# lecture15
+第十五节课主要讲的是并发控制  
+[课堂笔记](/note/lecture/lecture15.md)  
+[课堂资料](/material/lecture/lecture15/15-concurrencycontrol.pdf)      
+[官方笔记](/material/lecture/lecture15/note.pdf)  

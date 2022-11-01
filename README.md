@@ -16,6 +16,7 @@
     * [lecture15](#lecture15)   
     * [lecture16](#lecture16)   
     * [lecture17](#lecture17)   
+    * [lecture18](#lecture18)   
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -99,3 +100,8 @@
 [课堂笔记](/note/lecture/lecture17.md)  
 [课堂资料](/material/lecture/lecture17/17-timestampordering.pdf)      
 [官方笔记](/material/lecture/lecture17/note.pdf)  
+# lecture18
+第十八节课主要讲的是基于多版本变量的并发控制  
+[课堂笔记](/note/lecture/lecture18.md)  
+[课堂资料](/material/lecture/lecture18/18-multiversioning.pdf)      
+[官方笔记](/material/lecture/lecture18/note.pdf)  

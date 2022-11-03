@@ -18,6 +18,7 @@
     * [lecture17](#lecture17)   
     * [lecture18](#lecture18)   
     * [lecture19](#lecture19)   
+    * [lecture20](#lecture20)   
 
 # lecture1  
 第一节课主要讲了一些数据库（关系）的基础知识，介绍了对不同数据库之间的运算  
@@ -111,3 +112,8 @@
 [课堂笔记](/note/lecture/lecture19.md)  
 [课堂资料](/material/lecture/lecture19/19-logging.pdf)      
 [官方笔记](/material/lecture/lecture19/note.pdf)  
+# lecture20
+第二十节课主要讲的是数据库里的文件恢复策略  
+[课堂笔记](/note/lecture/lecture20.md)  
+[课堂资料](/material/lecture/lecture20/20-recovery.pdf)      
+[官方笔记](/material/lecture/lecture20/note.pdf)  
